@@ -2,8 +2,6 @@ import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 import 'package:mlkit_demo_flutter/pages/capture_image_page.dart';
 
-import 'pages/home_page.dart';
-
 late CameraDescription camera;
 
 Future<void> main() async {
